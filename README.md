@@ -1,3 +1,5 @@
+![Screenshot from 2025-03-27 15-25-31](https://github.com/user-attachments/assets/e32f6e88-9ef5-49ee-a691-0d055eb1c028)
+![Screenshot from 2025-03-27 15-25-42](https://github.com/user-attachments/assets/4801d7ae-fcda-4bea-827d-9cd65f777999)
 # Theme Changer App 🎨
 
 A simple React application with a theme toggle feature using Context API.
