@@ -32,7 +32,3 @@ Feel free to fork the repository and contribute! Open a pull request if you have
 
 Author ✨
 Developed by Pruthviraj Kakade.
-
-sql
-Copy
-Edit
