@@ -15,11 +15,12 @@ A simple React application with a theme toggle feature using Context API.
 - Tailwind CSS (for styling)
 
 ## Installation 📥
-```sh
+```
 git clone https://github.com/pruthvi300/ThemeChangerWithContextAPI
-cd ThemeChangerWithContextAPI
+cd app
 npm install
 npm start
+```
 Then, open http://localhost:3000 in your browser.
 
 Usage 📌
